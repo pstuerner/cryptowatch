@@ -1,0 +1,13 @@
+fastapi[standard]
+apscheduler
+feedparser
+newspaper3k
+chromadb
+openai
+lxml[html_clean]
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+langchain-core
+langchain
+typer

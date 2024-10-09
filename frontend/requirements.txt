@@ -1,0 +1,9 @@
+chromadb
+openai
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+langchain-core
+langchain
+typer
+streamlit
