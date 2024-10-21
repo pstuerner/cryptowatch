@@ -4,7 +4,7 @@ feedparser
 newspaper3k
 chromadb
 openai
-lxml[html_clean]
+lxml_html_clean
 langchain-text-splitters
 langchain-openai
 langchain-chroma
